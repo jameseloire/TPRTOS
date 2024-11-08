@@ -1,0 +1,10 @@
+[manifest]
+path = co2-measurement-device
+file = west.yml
+
+[zephyr]
+base = zephyr
+
+[build]
+board = nucleos
+
